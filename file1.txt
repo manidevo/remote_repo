@@ -1,1 +1,3 @@
 First line in file1 by Dev A
+Thid line added by Dev B
+This line added by Dev B
